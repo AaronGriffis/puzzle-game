@@ -9,8 +9,8 @@ public class ColorTheme{
    
    private static Map<String, Color[]> initThemes(){
       Map<String, Color[]> themes = new LinkedHashMap<>();
-      themes.put("Brick Red", initTheme(new Color(135, 45, 45)));
-      themes.put("Copper Orange", initTheme(new Color(130, 60, 30)));
+      themes.put("Brick Red", initTheme(new Color(92, 47, 35)));
+      themes.put("Copper Orange", initTheme(new Color(112, 64, 16)));
       themes.put("Forest Green", initTheme(new Color(50, 80, 20)));
       themes.put("Sea Blue", initTheme(new Color(15, 60, 100)));
       themes.put("Lavender Purple", initTheme(new Color(70, 40, 100)));
